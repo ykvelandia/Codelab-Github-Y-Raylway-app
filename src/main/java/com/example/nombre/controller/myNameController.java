@@ -8,7 +8,7 @@ public class myNameController {
 
     @GetMapping("/name")
     public String obtenerNombre(){
-        return "Yeni Karina Velandia Cruz 🤗";
+        return "Yeni Karina Velandia Cruz 🤗😎";
     }
 
 
